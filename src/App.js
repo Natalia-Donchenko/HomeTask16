@@ -87,7 +87,6 @@ function App() {
                 type="number"
                 name="age">
               </input>
-
             </form>
 
             <button 
